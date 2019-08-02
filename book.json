@@ -11,7 +11,7 @@
             "google": null,
             "twitter": null,
             "weibo": null
-        },
+        }
     },
     "output": null,
     "pdf": {
@@ -40,7 +40,6 @@
             "search-pro",
             "-sharing", 
             "sharing-plus",
-            "simple-page-toc",
             "page-toc-button",
             "multipart"],
 
